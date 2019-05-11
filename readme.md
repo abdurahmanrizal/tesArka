@@ -19,5 +19,5 @@ JSON pada REST API yaitu hasil dari komunikasi yang menghasilkan data yang dapat
 <h3>NOTIFIKASI BERHASIL MENYIMPAN SETIAP SKILLS PADA PROGRAMMER</h3>
 <hr>
 
-![Optional Text](images/skills_programmer.png)
+![Optional Text](images/skills_programmers.png)
 
