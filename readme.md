@@ -8,5 +8,16 @@ JSON pada REST API yaitu hasil dari komunikasi yang menghasilkan data yang dapat
 <br>
 <h3>HALAMAN UTAMA TAMBAH LIST PROGRAMMER</h3>
 
-![Optional Text](halaman_utama.png)
+![Optional Text](images/halaman_utama.png)
+
+<br>
+<h3>NOTIFIKASI BERHASIL MENYIMPAN USERS DATA KE DATABASE</h3>
+
+![Optional Text](images/users_programmers.png)
+
+<br>
+<h3>NOTIFIKASI BERHASIL MENYIMPAN SETIAP SKILLS PADA PROGRAMMER</h3>
+<hr>
+
+![Optional Text](images/skills_programmer.png)
 
